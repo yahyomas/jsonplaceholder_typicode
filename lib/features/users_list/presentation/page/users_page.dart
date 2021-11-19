@@ -1,7 +1,7 @@
-import 'package:demo_app_bloc/core/locator/locator.dart';
-import 'package:demo_app_bloc/core/widgets/loading_view.dart';
-import 'package:demo_app_bloc/features/users_list/presentation/view_model/users_page_viewmodel.dart';
-import 'package:demo_app_bloc/features/users_list/presentation/widgets/users_list_view.dart';
+import 'package:demo_app/core/locator/locator.dart';
+import 'package:demo_app/core/widgets/loading_view.dart';
+import 'package:demo_app/features/users_list/presentation/view_model/users_page_viewmodel.dart';
+import 'package:demo_app/features/users_list/presentation/widgets/users_list_view.dart';
 import 'package:flutter/material.dart';
 import 'package:stacked/stacked.dart';
 

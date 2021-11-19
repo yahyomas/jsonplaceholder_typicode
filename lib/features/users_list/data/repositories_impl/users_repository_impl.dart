@@ -1,9 +1,9 @@
 import 'package:dartz/dartz.dart';
-import 'package:demo_app_bloc/core/errors/exceptions.dart';
-import 'package:demo_app_bloc/core/errors/failures.dart';
-import 'package:demo_app_bloc/features/users_list/data/datasources/users_data_source.dart';
-import 'package:demo_app_bloc/features/users_list/domain/entities/user.dart';
-import 'package:demo_app_bloc/features/users_list/domain/repositories/users_repository.dart';
+import 'package:demo_app/core/errors/exceptions.dart';
+import 'package:demo_app/core/errors/failures.dart';
+import 'package:demo_app/features/users_list/data/datasources/users_data_source.dart';
+import 'package:demo_app/features/users_list/domain/entities/user.dart';
+import 'package:demo_app/features/users_list/domain/repositories/users_repository.dart';
 
 class UsersRepositoryImplementation implements UsersRepository{
   final UsersDataSource usersDataSource;

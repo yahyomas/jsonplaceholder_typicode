@@ -1,7 +1,7 @@
 import 'package:dartz/dartz.dart';
-import 'package:demo_app_bloc/core/errors/failures.dart';
-import 'package:demo_app_bloc/features/user_details/domain/entities/user/user_info.dart';
-import 'package:demo_app_bloc/features/user_details/domain/repositories/user_info_repository.dart';
+import 'package:demo_app/core/errors/failures.dart';
+import 'package:demo_app/features/user_details/domain/entities/user/user_info.dart';
+import 'package:demo_app/features/user_details/domain/repositories/user_info_repository.dart';
 
 class GetUserData {
   UserInfoRepository repository;

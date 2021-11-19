@@ -1,4 +1,4 @@
-import 'package:demo_app_bloc/features/user_details/domain/entities/album.dart';
+import 'package:demo_app/features/user_details/domain/entities/album.dart';
 
 class AlbumModel extends Album {
   AlbumModel({required int userId, required int id, required String title})

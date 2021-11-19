@@ -1,4 +1,4 @@
-import 'package:demo_app_bloc/core/locator/locator.dart';
+import 'package:demo_app/core/locator/locator.dart';
 import 'package:flutter/material.dart';
 import 'package:stacked_services/stacked_services.dart';
 

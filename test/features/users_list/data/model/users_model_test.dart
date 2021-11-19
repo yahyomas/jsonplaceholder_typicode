@@ -1,6 +1,6 @@
 import 'dart:convert';
-import 'package:demo_app_bloc/features/users_list/data/models/users_model.dart';
-import 'package:demo_app_bloc/features/users_list/domain/entities/user.dart';
+import 'package:demo_app/features/users_list/data/models/users_model.dart';
+import 'package:demo_app/features/users_list/domain/entities/user.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 import '../../../../fixture/fixture.dart';

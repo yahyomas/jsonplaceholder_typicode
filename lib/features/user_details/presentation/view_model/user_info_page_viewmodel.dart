@@ -1,10 +1,10 @@
-import 'package:demo_app_bloc/core/locator/locator.dart';
-import 'package:demo_app_bloc/features/user_details/domain/entities/album.dart';
-import 'package:demo_app_bloc/features/user_details/domain/entities/post.dart';
-import 'package:demo_app_bloc/features/user_details/domain/entities/user/user_info.dart';
-import 'package:demo_app_bloc/features/user_details/domain/usecases/get_user_albums.dart';
-import 'package:demo_app_bloc/features/user_details/domain/usecases/get_user_data.dart';
-import 'package:demo_app_bloc/features/user_details/domain/usecases/get_user_posts.dart';
+import 'package:demo_app/core/locator/locator.dart';
+import 'package:demo_app/features/user_details/domain/entities/album.dart';
+import 'package:demo_app/features/user_details/domain/entities/post.dart';
+import 'package:demo_app/features/user_details/domain/entities/user/user_info.dart';
+import 'package:demo_app/features/user_details/domain/usecases/get_user_albums.dart';
+import 'package:demo_app/features/user_details/domain/usecases/get_user_data.dart';
+import 'package:demo_app/features/user_details/domain/usecases/get_user_posts.dart';
 import 'package:stacked/stacked.dart';
 import 'package:stacked_services/stacked_services.dart';
 

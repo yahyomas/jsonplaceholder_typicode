@@ -1,11 +1,11 @@
 import 'package:dartz/dartz.dart';
-import 'package:demo_app_bloc/core/errors/exceptions.dart';
-import 'package:demo_app_bloc/core/errors/failures.dart';
-import 'package:demo_app_bloc/features/user_details/data/datasources/user_info_datasourcce.dart';
-import 'package:demo_app_bloc/features/user_details/domain/entities/album.dart';
-import 'package:demo_app_bloc/features/user_details/domain/entities/post.dart';
-import 'package:demo_app_bloc/features/user_details/domain/entities/user/user_info.dart';
-import 'package:demo_app_bloc/features/user_details/domain/repositories/user_info_repository.dart';
+import 'package:demo_app/core/errors/exceptions.dart';
+import 'package:demo_app/core/errors/failures.dart';
+import 'package:demo_app/features/user_details/data/datasources/user_info_datasourcce.dart';
+import 'package:demo_app/features/user_details/domain/entities/album.dart';
+import 'package:demo_app/features/user_details/domain/entities/post.dart';
+import 'package:demo_app/features/user_details/domain/entities/user/user_info.dart';
+import 'package:demo_app/features/user_details/domain/repositories/user_info_repository.dart';
 
 class UserInfoRepositoryImplementation extends UserInfoRepository {
   UserInfoDataSource userInfoDataSource;

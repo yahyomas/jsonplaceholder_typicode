@@ -1,4 +1,4 @@
-import 'package:demo_app_bloc/features/users_list/domain/entities/user.dart';
+import 'package:demo_app/features/users_list/domain/entities/user.dart';
 
 class UserModel extends User {
   UserModel({required String name, required String userName, required int id})

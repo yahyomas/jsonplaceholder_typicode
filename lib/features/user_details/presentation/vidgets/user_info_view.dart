@@ -1,7 +1,7 @@
-import 'package:demo_app_bloc/features/user_details/presentation/vidgets/user_albums_view.dart';
-import 'package:demo_app_bloc/features/user_details/presentation/vidgets/user_info_item.dart';
-import 'package:demo_app_bloc/features/user_details/presentation/vidgets/user_posts_view.dart';
-import 'package:demo_app_bloc/features/user_details/presentation/view_model/user_info_page_viewmodel.dart';
+import 'package:demo_app/features/user_details/presentation/vidgets/user_albums_view.dart';
+import 'package:demo_app/features/user_details/presentation/vidgets/user_info_item.dart';
+import 'package:demo_app/features/user_details/presentation/vidgets/user_posts_view.dart';
+import 'package:demo_app/features/user_details/presentation/view_model/user_info_page_viewmodel.dart';
 import 'package:flutter/material.dart';
 import 'package:stacked/stacked.dart';
 

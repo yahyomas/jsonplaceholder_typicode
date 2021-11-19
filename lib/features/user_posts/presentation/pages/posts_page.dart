@@ -1,5 +1,5 @@
-import 'package:demo_app_bloc/features/user_details/domain/entities/post.dart';
-import 'package:demo_app_bloc/features/user_posts/presentation/pages/post_commetns.dart';
+import 'package:demo_app/features/user_details/domain/entities/post.dart';
+import 'package:demo_app/features/user_posts/presentation/pages/post_commetns.dart';
 import 'package:flutter/material.dart';
 
 class PostsPage extends StatelessWidget {

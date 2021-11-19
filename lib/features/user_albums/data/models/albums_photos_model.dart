@@ -1,4 +1,4 @@
-import 'package:demo_app_bloc/features/user_albums/domain/entities/album_details.dart';
+import 'package:demo_app/features/user_albums/domain/entities/album_details.dart';
 
 class AlbumPhotosModel extends AlbumPhoto {
   AlbumPhotosModel(

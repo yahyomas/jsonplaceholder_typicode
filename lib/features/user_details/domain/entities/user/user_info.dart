@@ -1,5 +1,5 @@
-import 'package:demo_app_bloc/features/user_details/domain/entities/user/address.dart';
-import 'package:demo_app_bloc/features/user_details/domain/entities/user/company.dart';
+import 'package:demo_app/features/user_details/domain/entities/user/address.dart';
+import 'package:demo_app/features/user_details/domain/entities/user/company.dart';
 import 'package:equatable/equatable.dart';
 
 class UserInfo extends Equatable {

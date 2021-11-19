@@ -1,4 +1,4 @@
-import 'package:demo_app_bloc/features/user_details/domain/entities/post.dart';
+import 'package:demo_app/features/user_details/domain/entities/post.dart';
 
 class PostModel extends Post {
   PostModel(

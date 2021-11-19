@@ -1,5 +1,5 @@
-import 'package:demo_app_bloc/features/user_details/presentation/pages/user_info_page.dart';
-import 'package:demo_app_bloc/features/users_list/presentation/view_model/users_page_viewmodel.dart';
+import 'package:demo_app/features/user_details/presentation/pages/user_info_page.dart';
+import 'package:demo_app/features/users_list/presentation/view_model/users_page_viewmodel.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:stacked/stacked.dart';

@@ -1,6 +1,6 @@
-import 'package:demo_app_bloc/features/user_details/domain/entities/user/address.dart';
-import 'package:demo_app_bloc/features/user_details/domain/entities/user/company.dart';
-import 'package:demo_app_bloc/features/user_details/domain/entities/user/user_info.dart';
+import 'package:demo_app/features/user_details/domain/entities/user/address.dart';
+import 'package:demo_app/features/user_details/domain/entities/user/company.dart';
+import 'package:demo_app/features/user_details/domain/entities/user/user_info.dart';
 
 class UserInfoModel extends UserInfo {
   UserInfoModel({

@@ -1,8 +1,8 @@
-import 'package:demo_app_bloc/core/locator/locator.dart';
-import 'package:demo_app_bloc/core/widgets/loading_view.dart';
-import 'package:demo_app_bloc/features/user_details/domain/entities/post.dart';
-import 'package:demo_app_bloc/features/user_posts/presentation/viewmodel/post_comments_page_viewmodel.dart';
-import 'package:demo_app_bloc/features/user_posts/presentation/widgets/btn.dart';
+import 'package:demo_app/core/locator/locator.dart';
+import 'package:demo_app/core/widgets/loading_view.dart';
+import 'package:demo_app/features/user_details/domain/entities/post.dart';
+import 'package:demo_app/features/user_posts/presentation/viewmodel/post_comments_page_viewmodel.dart';
+import 'package:demo_app/features/user_posts/presentation/widgets/btn.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/painting.dart';
 import 'package:modal_progress_hud_nsn/modal_progress_hud_nsn.dart';

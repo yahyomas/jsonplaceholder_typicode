@@ -1,9 +1,9 @@
-import 'package:demo_app_bloc/core/locator/locator.dart';
-import 'package:demo_app_bloc/features/user_posts/domain/entities/comment.dart'
+import 'package:demo_app/core/locator/locator.dart';
+import 'package:demo_app/features/user_posts/domain/entities/comment.dart'
     as lc;
-import 'package:demo_app_bloc/features/user_posts/domain/entities/post_comments.dart';
-import 'package:demo_app_bloc/features/user_posts/domain/usecases/get_post_comments.dart';
-import 'package:demo_app_bloc/features/user_posts/domain/usecases/leave_comment.dart';
+import 'package:demo_app/features/user_posts/domain/entities/post_comments.dart';
+import 'package:demo_app/features/user_posts/domain/usecases/get_post_comments.dart';
+import 'package:demo_app/features/user_posts/domain/usecases/leave_comment.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:stacked/stacked.dart';
 import 'package:stacked_services/stacked_services.dart';

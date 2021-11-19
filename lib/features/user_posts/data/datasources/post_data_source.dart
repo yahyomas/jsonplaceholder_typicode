@@ -1,9 +1,9 @@
 import 'dart:convert';
 
-import 'package:demo_app_bloc/core/errors/exceptions.dart';
-import 'package:demo_app_bloc/core/network/constants.dart';
-import 'package:demo_app_bloc/features/user_posts/data/models/comment.dart';
-import 'package:demo_app_bloc/features/user_posts/data/models/post_comments_model.dart';
+import 'package:demo_app/core/errors/exceptions.dart';
+import 'package:demo_app/core/network/constants.dart';
+import 'package:demo_app/features/user_posts/data/models/comment.dart';
+import 'package:demo_app/features/user_posts/data/models/post_comments_model.dart';
 import 'package:http/http.dart' as http;
 
 abstract class PostsDataSource {

@@ -1,6 +1,6 @@
-import 'package:demo_app_bloc/core/locator/locator.dart';
-import 'package:demo_app_bloc/features/user_albums/domain/entities/album_details.dart';
-import 'package:demo_app_bloc/features/user_albums/domain/usecases/get_album_photos.dart';
+import 'package:demo_app/core/locator/locator.dart';
+import 'package:demo_app/features/user_albums/domain/entities/album_details.dart';
+import 'package:demo_app/features/user_albums/domain/usecases/get_album_photos.dart';
 import 'package:stacked/stacked.dart';
 import 'package:stacked_services/stacked_services.dart';
 

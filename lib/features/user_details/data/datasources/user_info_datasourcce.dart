@@ -1,10 +1,10 @@
 import 'dart:convert';
 
-import 'package:demo_app_bloc/core/errors/exceptions.dart';
-import 'package:demo_app_bloc/core/network/constants.dart';
-import 'package:demo_app_bloc/features/user_details/data/models/album_model.dart';
-import 'package:demo_app_bloc/features/user_details/data/models/post_model.dart';
-import 'package:demo_app_bloc/features/user_details/data/models/user_info_model.dart';
+import 'package:demo_app/core/errors/exceptions.dart';
+import 'package:demo_app/core/network/constants.dart';
+import 'package:demo_app/features/user_details/data/models/album_model.dart';
+import 'package:demo_app/features/user_details/data/models/post_model.dart';
+import 'package:demo_app/features/user_details/data/models/user_info_model.dart';
 import 'package:http/http.dart' as http;
 
 abstract class UserInfoDataSource {

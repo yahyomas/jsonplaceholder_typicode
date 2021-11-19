@@ -1,7 +1,7 @@
 import 'package:dartz/dartz.dart';
-import 'package:demo_app_bloc/features/users_list/data/datasources/users_data_source.dart';
-import 'package:demo_app_bloc/features/users_list/data/models/users_model.dart';
-import 'package:demo_app_bloc/features/users_list/data/repositories_impl/users_repository_impl.dart';
+import 'package:demo_app/features/users_list/data/datasources/users_data_source.dart';
+import 'package:demo_app/features/users_list/data/models/users_model.dart';
+import 'package:demo_app/features/users_list/data/repositories_impl/users_repository_impl.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:mockito/mockito.dart';
 

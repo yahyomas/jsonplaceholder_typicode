@@ -1,6 +1,6 @@
-import 'package:demo_app_bloc/core/locator/locator.dart';
-import 'package:demo_app_bloc/features/users_list/domain/entities/user.dart';
-import 'package:demo_app_bloc/features/users_list/domain/usecases/get_all_users.dart';
+import 'package:demo_app/core/locator/locator.dart';
+import 'package:demo_app/features/users_list/domain/entities/user.dart';
+import 'package:demo_app/features/users_list/domain/usecases/get_all_users.dart';
 import 'package:stacked/stacked.dart';
 import 'package:stacked_services/stacked_services.dart';
 

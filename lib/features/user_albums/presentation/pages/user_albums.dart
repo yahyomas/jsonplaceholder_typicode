@@ -1,5 +1,5 @@
-import 'package:demo_app_bloc/features/user_albums/presentation/pages/album_photos_page.dart';
-import 'package:demo_app_bloc/features/user_details/domain/entities/album.dart';
+import 'package:demo_app/features/user_albums/presentation/pages/album_photos_page.dart';
+import 'package:demo_app/features/user_details/domain/entities/album.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 

@@ -1,4 +1,4 @@
-import 'package:demo_app_bloc/features/user_posts/domain/entities/post_comments.dart';
+import 'package:demo_app/features/user_posts/domain/entities/post_comments.dart';
 
 class PostCommentModel extends PostComment {
   PostCommentModel(

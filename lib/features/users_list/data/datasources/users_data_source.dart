@@ -1,8 +1,8 @@
 import 'dart:convert';
 
-import 'package:demo_app_bloc/core/errors/exceptions.dart';
-import 'package:demo_app_bloc/core/network/constants.dart';
-import 'package:demo_app_bloc/features/users_list/data/models/users_model.dart';
+import 'package:demo_app/core/errors/exceptions.dart';
+import 'package:demo_app/core/network/constants.dart';
+import 'package:demo_app/features/users_list/data/models/users_model.dart';
 import 'package:http/http.dart'as http;
 
 abstract class UsersDataSource{

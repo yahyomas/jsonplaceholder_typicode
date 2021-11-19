@@ -1,4 +1,4 @@
-import 'package:demo_app_bloc/features/user_posts/presentation/viewmodel/post_comments_page_viewmodel.dart';
+import 'package:demo_app/features/user_posts/presentation/viewmodel/post_comments_page_viewmodel.dart';
 import 'package:flutter/material.dart';
 import 'package:stacked/stacked.dart';
 
